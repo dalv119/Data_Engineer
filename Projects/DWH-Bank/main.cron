@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Вариант bash c проверкой на дублирование задания в расписании пользовательского crontab :
+
+( crontab -l; echo "0 0 */1 * * /home/de11an/dobr/project/main.py" ) | awk '!x[$0]++' | crontab -
+
+# даем разрешение на исполнение файла скрипта
+chmod ugo + x main.py
