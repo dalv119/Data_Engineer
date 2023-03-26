@@ -93,7 +93,9 @@ terminals_DDMMYYYY.xlsx.backup
 1. Загрузка в classroom.
 В classroom выкладывается zip-архив, содержащий следующие файлы и каталоги:
 
-- main.py - Файл, обязательный Основной процесс обработки.
+Наименование файла     | Статус               | Описание
+:----------------------|:---------------------|:---------------------------
+[main.py](https://github.com/dalv119/Data_Engineer/blob/main/Projects/DWH-Bank/ER_диаграмма.png) | Файл, обязательный  | Основной процесс обработки.
 
 <a style="display:block" href="https://github.com/Art9050/DataEngineering/blob/main/final_project/main.py">
   <div class="xyz">main.py</div>
