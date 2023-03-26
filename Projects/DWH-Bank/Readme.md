@@ -31,7 +31,7 @@
   <div class="xyz">ER - диаграмма</div>
 </a>
 
-![ER-диаграмма](https://github.com/dalv119/Data_Engineer/blob/main/Projects/DWH-Bank/ER%20диаграмма.pdf)
+![ER-диаграмма](https://github.com/dalv119/Data_Engineer/blob/main/Projects/DWH-Bank/ER_диаграмма.png)
 [![ER-диаграмма](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 Типы данных в полях можно изменять на однородные если для этого есть
