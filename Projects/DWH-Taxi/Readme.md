@@ -17,15 +17,9 @@
 ### Описание источников данных.
 #### 1. Источник данных - СУБД PostgreSQL
 Реквизиты подключения к источнику техническим пользователем:
-●
-host: de-edu-db.chronosavant.ru
-●
-port: 5432
-●
-database: taxi
-●
-schema: main
-●
-user: etl_tech_user
-●
-password: etl_tech_user_password
+- host: de-edu-db.chronosavant.ru
+- port: 5432
+- database: taxi
+- schema: main
+- user: etl_tech_user
+- password: etl_tech_user_password
